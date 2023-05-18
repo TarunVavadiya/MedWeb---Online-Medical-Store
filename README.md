@@ -1,5 +1,10 @@
 # MedWeb---Online-Medical-Store
-MedWab is a online medical store which is used to buy medical items easily. MedWab provides a platform for users to purchase medicines and healthcare products online. The project must be designed to provide a user-friendly interface that makes it easy for users to browse products, place orders, and make payments.
+An online pharmacy website project built with Django would provide customers with the ability to purchase prescription and over-the-counter medications online. The website should have a user-friendly interface and allow customers to easily search for medications by name, condition, or category.   
+
+Customers will be able to upload their prescription and receive refills, as well as view their order history and track the status of their current orders. The site should also provide customers with information about the medications they are taking, including side effects and interactions with other medications. 
+
+The site will have an administrative dashboard for managing orders, processing payments, and updating product information.  Overall, the online pharmacy website built with Django should provide a seamless and secure experience for customers to manage their healthcare needs from the comfort of their own homes.
+
 
 
 Here is Some Pictures of this project to understand better ---
